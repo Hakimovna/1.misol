@@ -1,2 +1,2 @@
-# 1.misol
+# 1 misol
 misol
